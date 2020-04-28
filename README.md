@@ -20,5 +20,3 @@ Trained Spot Keywords are: "left","go","up","off","right","down","stop","on","no
 
 The net was trained and tested on data downloaded from:
 https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
-
-Guidance from Valerio Velardo notes (The Sound of AI): https://github.com/musikalkemist/
